@@ -58,11 +58,3 @@ Interactive-3D-Sales-Visualization/
 ## Output
 
 The Plotly visualizations can be explored interactively in the notebook and exported as standalone HTML files.
-
-## Future Improvements
-
-* Interactive filters for stores and categories
-* Sales-based cube sizing
-* Time-based animation
-* Additional sales statistics
-* Web-based dashboard deployment
