@@ -32,7 +32,6 @@ flowchart TD
 * **Plotly**
 * **NumPy**
 * **Matplotlib**
-* **Google Colab**
 
 ## Dataset
 
@@ -53,7 +52,7 @@ The complete implementation is available on Kaggle:
 ```text
 Interactive-3D-Sales-Visualization/
 ├── README.md
-└── 3d_sales_visualization.ipynb
+└── Sales Data Visualization.ipynb
 ```
 
 ## Output
